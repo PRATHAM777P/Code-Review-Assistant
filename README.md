@@ -34,7 +34,7 @@ Code Review Assistant/
 ## ⚙️ Setup Instructions
 
 ### 1. **Clone or Download the Project**
-Place the project in your desired directory (e.g., `D:\Python program's\Code Review Assistant`).
+Place the project in your desired directory
 
 ### 2. **Backend Setup**
 - Open a terminal and navigate to the backend folder:
@@ -162,12 +162,6 @@ Place the project in your desired directory (e.g., `D:\Python program's\Code Rev
     "custom_ai_response": "..."
   }
   ```
-
----
-
-## 🙌 Contributing
-- Pull requests and suggestions are welcome!
-- For major changes, please open an issue first to discuss what you would like to change.
 
 ---
 
