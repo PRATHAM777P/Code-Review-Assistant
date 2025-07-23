@@ -164,6 +164,3 @@ Place the project in your desired directory
   ```
 
 ---
-
-## 📄 License
-This project is for educational and personal use. For commercial use, please check the licenses of the integrated tools (pylint, bandit, Checkstyle, OpenAI API). 
