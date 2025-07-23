@@ -39,7 +39,7 @@ Place the project in your desired directory
 ### 2. **Backend Setup**
 - Open a terminal and navigate to the backend folder:
   ```sh
-  cd "D:\Py\Code Review Assistant\backend"
+  cd "P:\Py\Code Review Assistant\backend"
   pip install -r requirements.txt
   ```
 - **Run the Flask server:**
@@ -77,7 +77,7 @@ Place the project in your desired directory
 
 1. **Start the backend:**
    ```sh
-   cd "D:\Py\Code Review Assistant\backend"
+   cd "P:\Py\Code Review Assistant\backend"
    python app.py
    ```
    You should see:
